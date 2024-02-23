@@ -1,0 +1,12 @@
+[
+  {"edad": 25, "genero": "masculino"},
+  {"edad": 30, "genero": "femenino"},
+  {"edad": 35, "genero": "masculino"},
+  {"edad": 28, "genero": "femenino"},
+  {"edad": 40, "genero": "masculino"},
+  {"edad": 22, "genero": "femenino"},
+  {"edad": 33, "genero": "masculino"},
+  {"edad": 29, "genero": "femenino"},
+  {"edad": 38, "genero": "masculino"},
+  {"edad": 27, "genero": "femenino"}
+]
